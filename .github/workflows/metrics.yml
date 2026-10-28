@@ -26,6 +26,8 @@ jobs:
           output_action: commit
           committer_message: "chore: update metrics [skip ci]"
           config_timezone: Asia/Seoul
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: steve-8000, steve.kim, stv.z8k@gmail.com

@@ -1,29 +1,38 @@
-# Steve Kim
+<div align="center">
 
-Building across TypeScript, Rust, Swift, Python and Go, with Kubernetes and GitOps infrastructure.
+<img src="./assets/banner.svg" width="100%" alt="Steve Kim, @steve-8000. Owner of Four Pillars, clab-one and Thegram.">
 
-## Organizations
+</div>
 
-| | Organization | Role |
-| --- | --- | --- |
-| <img src="https://github.com/FP-Validated.png?size=32" width="32" height="32" alt=""> | [Four Pillars](https://github.com/FP-Validated) | Owner |
-| <img src="https://github.com/clab-one.png?size=32" width="32" height="32" alt=""> | [clab-one](https://github.com/clab-one) | Owner |
-| <img src="https://github.com/thegram-one.png?size=32" width="32" height="32" alt=""> | [Thegram](https://github.com/thegram-one) | Owner |
+<h2 align="center">Organizations</h2>
 
-## Tech stack
+<p align="center">
+  <a href="https://github.com/FP-Validated"><img src="./assets/org-fp-validated.svg" width="32%" alt="Four Pillars, owner"></a>
+  <a href="https://github.com/clab-one"><img src="./assets/org-clab-one.svg" width="32%" alt="clab-one, owner"></a>
+  <a href="https://github.com/thegram-one"><img src="./assets/org-thegram-one.svg" width="32%" alt="Thegram, owner"></a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white)
+<h2 align="center">Stack</h2>
 
-## Activity
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-1a1a1a?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell">
+  <br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD">
+</p>
 
-Contribution counts include work in the organizations above, private repositories included. Only aggregate numbers are shown; repository names and code stay private.
+<h2 align="center">Activity</h2>
 
-![GitHub metrics](./metrics.svg)
+<p align="center">
+  <img src="./metrics.svg" width="640" alt="GitHub contribution metrics">
+</p>
+
+<p align="center">
+  <sub>Counts include private repositories in the organizations above. Only aggregate numbers are shown; repository names and code stay private.</sub>
+</p>
