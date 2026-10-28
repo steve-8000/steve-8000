@@ -8,18 +8,26 @@ Kubernetes and GitOps infrastructure.
 
 ## 01 / Organizations
 
-<a href="https://github.com/FP-Validated"><picture>
+<p>
+<a href="https://github.com/FP-Validated">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/org-fp-validated-dark.svg">
   <img src="./assets/org-fp-validated-light.svg" width="272" alt="Four Pillars, owner">
-</picture></a>
-<a href="https://github.com/clab-one"><picture>
+</picture>
+</a>
+<a href="https://github.com/clab-one">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/org-clab-one-dark.svg">
   <img src="./assets/org-clab-one-light.svg" width="272" alt="clab-one, owner">
-</picture></a>
-<a href="https://github.com/thegram-one"><picture>
+</picture>
+</a>
+<a href="https://github.com/thegram-one">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/org-thegram-one-dark.svg">
   <img src="./assets/org-thegram-one-light.svg" width="272" alt="Thegram, owner">
-</picture></a>
+</picture>
+</a>
+</p>
 
 ## 02 / Stack
 
