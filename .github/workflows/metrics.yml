@@ -15,19 +15,17 @@ concurrency:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 5
     steps:
-      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: steve-8000
-          template: classic
-          filename: metrics.svg
-          output_action: commit
-          committer_message: "chore: update metrics [skip ci]"
-          config_timezone: Asia/Seoul
-          base: header, activity, community, metadata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: steve-8000, steve.kim, stv.z8k@gmail.com
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - run: python3 scripts/metrics.py
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - run: |
+          if [ -n "$(git status --porcelain assets)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets
+            git commit -m "chore: update activity"
+            git push
+          fi

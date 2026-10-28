@@ -1,38 +1,36 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="840" alt="Steve Kim">
+</picture>
 
-<img src="./assets/banner.svg" width="100%" alt="Steve Kim, @steve-8000. Owner of Four Pillars, clab-one and Thegram.">
+TypeScript, Rust, Swift, Python and Go.
+Kubernetes and GitOps infrastructure.
 
-</div>
+## 01 / Organizations
 
-<h2 align="center">Organizations</h2>
+<a href="https://github.com/FP-Validated"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/org-fp-validated-dark.svg">
+  <img src="./assets/org-fp-validated-light.svg" width="272" alt="Four Pillars, owner">
+</picture></a>
+<a href="https://github.com/clab-one"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/org-clab-one-dark.svg">
+  <img src="./assets/org-clab-one-light.svg" width="272" alt="clab-one, owner">
+</picture></a>
+<a href="https://github.com/thegram-one"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/org-thegram-one-dark.svg">
+  <img src="./assets/org-thegram-one-light.svg" width="272" alt="Thegram, owner">
+</picture></a>
 
-<p align="center">
-  <a href="https://github.com/FP-Validated"><img src="./assets/org-fp-validated.svg" width="32%" alt="Four Pillars, owner"></a>
-  <a href="https://github.com/clab-one"><img src="./assets/org-clab-one.svg" width="32%" alt="clab-one, owner"></a>
-  <a href="https://github.com/thegram-one"><img src="./assets/org-thegram-one.svg" width="32%" alt="Thegram, owner"></a>
-</p>
+## 02 / Stack
 
-<h2 align="center">Stack</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="840" alt="TypeScript, Rust, Swift, Python, Go, JavaScript, Shell, Kubernetes, Argo CD">
+</picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Rust-1a1a1a?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell">
-  <br>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD">
-</p>
+## 03 / Activity
 
-<h2 align="center">Activity</h2>
-
-<p align="center">
-  <img src="./metrics.svg" width="640" alt="GitHub contribution metrics">
-</p>
-
-<p align="center">
-  <sub>Counts include private repositories in the organizations above. Only aggregate numbers are shown; repository names and code stay private.</sub>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity-light.svg" width="840" alt="Contribution counts and calendar for the last 12 months">
+</picture>
